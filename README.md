@@ -1,5 +1,5 @@
 # coding-challenge
-1. Extract This Project
+1. Clone/Download This Project
 2. If Python is not installed on your device, Install Python 2.7 & Pip & set the path variables
 3. If Mysql is not installed on your device, Install mysql on windows:https://www.youtube.com/watch?v=-cHS4HoEFV8, Install mysql on mac:https://www.youtube.com/watch?v=1C6ljG6FzNI
 4. Import courses.sql file using following command: mysql -u username -p flaskapp < complete path\courses.sql
